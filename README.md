@@ -1,6 +1,6 @@
 # xskills
 
-Personal OpenCode skills repository synced via `@jgordijn/opencode-remote-config`.
+Skills repository for XMOS-based sofware development.
 
 ## Skills
 
@@ -18,7 +18,9 @@ Automatically fixes `test_repo_checks` failures in XMOS library repositories.
 
 ---
 
-## Setup
+## Setup (OpenCode)
+
+How to sync automatically with OpenCode's remote config plugin.
 
 ### 1. Install opencode-remote-config plugin
 
